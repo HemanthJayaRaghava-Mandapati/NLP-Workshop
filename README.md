@@ -1,6 +1,5 @@
 # NLP Workshop
-
-Hands-on Natural Language Processing projects completed during an NLP workshop.
+Hands-on Natural Language Processing projects completed during an NLP workshop on September 25, 2026.
 
 ## 📚 Topics Covered
 
