@@ -36,15 +36,20 @@ FAQ questions using **TF-IDF and Cosine Similarity**.
 
 ## 🛠️ Technologies Used
 
-```text
-Python
-Pandas
-Scikit-learn
-Matplotlib
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
 ## 📊 Workshop Results
 
 ### TF-IDF Feature Matrix
 
+![TF-IDF Results](tfidf-results.jpeg.jpeg)
+
+### Word Frequency and N-grams
+
+![Word Frequency and N-grams](word-frequency-ngram-results.jpeg.jpeg)
 ![TF-IDF Results](tfidf-results.jpeg.jpeg)
 
 ### Word Frequency and N-grams
