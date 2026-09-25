@@ -41,3 +41,12 @@ Python
 Pandas
 Scikit-learn
 Matplotlib
+## 📊 Workshop Results
+
+### TF-IDF Feature Matrix
+
+![TF-IDF Results](images/tfidf-results.jpeg)
+
+### Word Frequency and N-grams
+
+![Word Frequency and N-grams](images/word-frequency-ngram-results.jpeg)
