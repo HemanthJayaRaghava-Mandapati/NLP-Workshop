@@ -50,8 +50,9 @@ FAQ questions using **TF-IDF and Cosine Similarity**.
 ### Word Frequency and N-grams
 
 ![Word Frequency and N-grams](word-frequency-ngram-results.jpeg.jpeg)
-![TF-IDF Results](tfidf-results.jpeg.jpeg)
+
 
 ### Word Frequency and N-grams
+
 
 ![Word Frequency and N-grams](word-frequency-ngram-results.jpeg.jpeg)
