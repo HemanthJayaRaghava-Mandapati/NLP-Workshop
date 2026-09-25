@@ -1,9 +1,10 @@
 # NLP Workshop
+
 Hands-on Natural Language Processing projects completed during an NLP workshop on September 25, 2026.
 
 ## 📚 Topics Covered
 
-- Text preprocessing
+- Text Preprocessing
 - TF-IDF Vectorization
 - Sentiment Analysis
 - Logistic Regression
@@ -13,15 +14,15 @@ Hands-on Natural Language Processing projects completed during an NLP workshop o
 - Prediction Probabilities
 - Cosine Similarity
 - FAQ Question Similarity
+- N-grams
 
 ## 🚀 Projects
 
 ### 1. Sentiment Analysis
 
-A machine learning model that classifies phone reviews as either
-**positive** or **negative**.
+A machine learning model that classifies phone reviews as either **positive** or **negative**.
 
-**Technologies:**
+**Technologies Used:**
 - Python
 - Pandas
 - Scikit-learn
@@ -31,15 +32,12 @@ A machine learning model that classifies phone reviews as either
 
 ### 2. FAQ Similarity
 
-A simple NLP system that compares a user's question with existing
-FAQ questions using **TF-IDF and Cosine Similarity**.
+A simple NLP system that compares a user's question with existing FAQ questions using **TF-IDF** and **Cosine Similarity**.
 
-## 🛠️ Technologies Used
-
+**Technologies Used:**
 - Python
 - Pandas
 - Scikit-learn
-- Matplotlib
 
 ## 📊 Workshop Results
 
@@ -49,10 +47,15 @@ FAQ questions using **TF-IDF and Cosine Similarity**.
 
 ### Word Frequency and N-grams
 
-
-
-
-### Word Frequency and N-grams
-
-
 ![Word Frequency and N-grams](word-frequency-ngram-results.jpeg.jpeg)
+
+## 🎥 Workshop Demonstration
+
+[▶️ Watch the NLP Workshop Screen Recording](NLP-Workshop.mp4.mp4)
+
+## ▶️ How to Run
+
+Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
