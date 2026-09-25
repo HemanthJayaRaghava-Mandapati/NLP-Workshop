@@ -45,8 +45,8 @@ Matplotlib
 
 ### TF-IDF Feature Matrix
 
-![TF-IDF Results](images/tfidf-results.jpeg)
+![TF-IDF Results](tfidf-results.jpeg.jpeg)
 
 ### Word Frequency and N-grams
 
-![Word Frequency and N-grams](images/word-frequency-ngram-results.jpeg)
+![Word Frequency and N-grams](word-frequency-ngram-results.jpeg.jpeg)
